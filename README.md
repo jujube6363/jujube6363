@@ -1,7 +1,7 @@
 ## Hi, I'm Sanjana! 👋
 ### 🎓 Sophomore at University of Texas at Austin, studying Electrical and Computer Engineering
 ### 💻 On the Decision, Information, and Communications Engineering track
-I am passionate about the real world applications of data science, embedded systems, netowrks, and machine learning. I am an avid learner and always looking forward to expanding my skillset!
+I am passionate about the real world applications of data science, embedded systems, netoworks, and machine learning. I am an avid learner and always looking forward to expanding my skillset!
 
 ## Featured Project: [Fruit^3](https://github.com/jujube6363/319_fruitcubed)
 ### What We Did: 
