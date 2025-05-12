@@ -15,11 +15,9 @@ C/C++, Code Composer Studio, KiCAD, Soldering
 ### Video Demonstration: [Fruit^3 Demo](https://youtu.be/g4-pJ8HqwUU?si=i5hVvLDM9YQ81SO2)
 
 ## 🛠 Tech Stack:
-**Languages:** C, C++, Python, Verilog, C#, Java, MATLAB, ARM Assembly, SQL
-
-**Libraries:** NumPy, Pandas, Matplotlib, SciPy, Scikit-learn
-
-**Tools:** Colab, GitHub, VS Code, LTSpice, KiCAD
+### Languages: C, C++, Python, Verilog, C#, Java, MATLAB, ARM Assembly, SQL
+### Libraries: NumPy, Pandas, Matplotlib, SciPy, Scikit-learn
+### Tools: Colab, GitHub, VS Code, LTSpice, KiCAD
 
 ## 🚀 More Projects:
 **1. [RaceCare Hackathon Project](https://github.com/jujube6363/RacecarHackathon)**
