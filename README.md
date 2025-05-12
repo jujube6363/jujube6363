@@ -16,7 +16,9 @@ C/C++, Code Composer Studio, KiCAD, Soldering
 
 ## 🛠 Tech Stack:
 **Languages:** C, C++, Python, Verilog, C#, Java, MATLAB, ARM Assembly, SQL
+
 **Libraries:** NumPy, Pandas, Matplotlib, SciPy, Scikit-learn
+
 **Tools:** Colab, GitHub, VS Code, LTSpice, KiCAD
 
 ## 🚀 More Projects:
