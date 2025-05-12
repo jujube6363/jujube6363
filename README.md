@@ -38,7 +38,7 @@ C/C++, Code Composer Studio, KiCAD, Soldering
 ### [![Sanjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jujube6363)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✨ Fun Fact:
-I love playing video games, whether it be on my Nintendo Switch or my PC. Seeing all the technology involved in a great source of entertainment was my main motivation for going into ECE! 🎮
+I love playing video games, whether it be on my Nintendo Switch or my PC, and I love making art. Seeing all the technology involved in doing both has been my main motivation for going into ECE! 🎮
 <!--
 **jujube6363/jujube6363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
