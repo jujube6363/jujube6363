@@ -24,6 +24,7 @@ C/C++, Code Composer Studio, KiCAD, Soldering
 - We devised a project to solve the real-world issue of patients suffering from paralysis or limited mobility by gamifying rehabilitation exercises with a racing-themed twist.
 - We won the Best Novice Award at the [2024 Formula Hacks Hackathon](https://devpost.com/software/racecare-super-mender-bros).
 - Learnings: C#, Unity Game Engine, Arduino
+- 
 **2. [Rolling Notes Hackathon Project](https://github.com/jujube6363/Record-Hacks)**
 - We created a rhythm game that translated inputs from external hardware to real-time LED display and in-game notes, allowing users to hit combos in a fun and interactive way.
 - See more about the project here: [Rolling Notes Website](https://devpost.com/software/rolling-notes)
