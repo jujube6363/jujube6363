@@ -13,6 +13,28 @@ C/C++, Code Composer Studio, KiCAD, Soldering
 ### Video Demonstration: [Fruit^3 Demo](https://youtu.be/g4-pJ8HqwUU?si=i5hVvLDM9YQ81SO2)
 
 ## 🛠 Tech Stack:
+### Languages: C, C++, Python, Verilog, C#, Java, MATLAB, ARM Assembly, SQL
+### Libraries: NumPy, Pandas, Matplotlib, SciPy, Scikit-learn
+### Tools: Colab, GitHub, VS Code, LTSpice, KiCAD
+
+## 🚀 More Projects:
+1. [RaceCare Hackathon Project](https://github.com/jujube6363/RacecarHackathon)
+- We devised a project to solve the real-world issue of patients suffering from paralysis or limited mobility by gamifying rehabilitation exercises with a racing-themed twist.
+- We won the Best Novice Award at the [2024 Formula Hacks Hackathon](https://devpost.com/software/racecare-super-mender-bros).
+- Learnings: C#, Unity Game Engine, Arduino
+2. [Rolling Notes Hackathon Project](https://github.com/jujube6363/Record-Hacks)
+- We created a rhythm game that translated inputs from external hardware to real-time LED display and in-game notes, allowing users to hit combos in a fun and interactive way.
+- See more about the project here: [Rolling Notes Website](https://devpost.com/software/rolling-notes)
+- Learnings: C#, Unity Game Engine, Arduino
+
+## 📫 How to Reach Me:
+### Email: sanjanakishore@utexas.edu
+### LinkedIn: [linkedin.com/in/sanjana-kishore](linkedin.com/in/sanjana-kishore)
+
+## 📊 GitHub Stats: Coming soon!
+
+## ✨ Fun Fact:
+I love playing video games, whether it be on my Nintendo Switch or my PC. Seeing all the technology involved in a great source of entertainment was my main motivation for going into ECE! 🎮
 <!--
 **jujube6363/jujube6363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
