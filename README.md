@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, I'm Sanjana! 👋
+#🎓 Sophomore at University of Texas at Austin, studying Electrical and Computer Engineering
 <!--
 **jujube6363/jujube6363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
