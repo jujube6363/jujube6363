@@ -6,6 +6,7 @@ I am passionate about the real world applications of data science, embedded syst
 ## Featured Project: [Fruit^3](https://github.com/jujube6363/319_fruitcubed)
 ### What We Did: 
 **Software:** Developed an original, bilingual, video game with advanced features such as collision detection and sounds produced through a DAC on an MSPM0 microcontroller in Code Composer Studio and C++.
+
 **Hardware:** Designed a PCB layout in KiCAD to serve as the controller and soldered core components– LEDs, switches, LCD, slidepot, resistors, and an audio jack– onto the PCB
 ### Tools: 
 C/C++, Code Composer Studio, KiCAD, Soldering
