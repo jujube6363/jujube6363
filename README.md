@@ -1,5 +1,5 @@
 ## Hi, I'm Sanjana! 👋
-🎓 Sophomore at University of Texas at Austin, studying Electrical and Computer Engineering
+🎓 Junior at University of Texas at Austin, double majoring in Electrical and Computer Engineering Honors and Mathematics
 
 💻 On the Decision, Information, and Communications Engineering track
 
