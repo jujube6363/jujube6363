@@ -34,9 +34,6 @@ C/C++, Code Composer Studio, KiCAD, Soldering
 ### Email: sanjanakishore@utexas.edu
 ### LinkedIn: [linkedin.com/in/sanjana-kishore](linkedin.com/in/sanjana-kishore)
 
-## 📊 GitHub Stats: 
-### [![Sanjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jujube6363)](https://github.com/anuraghazra/github-readme-stats)
-
 ## ✨ Fun Fact:
 I love playing video games, whether it be on my Nintendo Switch or my PC, and I love making art. Seeing all the technology involved in doing both has been my main motivation for going into ECE! 🎮
 <!--
